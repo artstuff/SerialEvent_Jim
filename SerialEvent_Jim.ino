@@ -1,4 +1,3 @@
-//Added to test GitHub
 /*
   Serial Event example
 
